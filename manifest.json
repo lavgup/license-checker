@@ -1,0 +1,7 @@
+{
+  "name": "License Checker",
+  "description": "Checks a license and returns information on it",
+  "author": "Lav",
+  "version": "1.0.0",
+  "license": "MIT"
+}
